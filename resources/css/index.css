@@ -1,0 +1,32 @@
+header {
+    background-image: url("../images/pattern.jpeg");
+}
+header h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+main {
+    background-color: papayawhip;
+}
+h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.combo-1 h3{
+    background-color: mediumspringgreen;
+}
+.combo-2 h3{
+    background-color: lightcoral;
+}
+.combo-3 h3{
+    background-color: skyblue;
+}
+
+price {
+    width: bold;
+    color:blue;
+}
